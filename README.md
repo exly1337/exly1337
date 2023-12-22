@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @exly1337
-- 👀 I’m interested in bots development
-- 🌱 I’m currently learning python
+- 👀 I’m interested in dev
+- 🌱 I’m currently learn ...anything
 - 📫 How to reach me - [telegram](https://t.me/d098d4f)
 
 <!---
